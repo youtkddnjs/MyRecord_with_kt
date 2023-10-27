@@ -2,4 +2,28 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="nullcolor">#00000000</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="purple">#800080</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="orange">#FFA500</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="violet">#9400D3</color>
+    <color name="indigo">#4B0082</color>
+    <color name="teal">#008080</color>
+    <color name="lime">#00FF00</color>
+    <color name="brown">#964B00</color>
+    <color name="grey">#808080</color>
+    <color name="light_grey">#D3D3D3</color>
+    <color name="dark_grey">#A9A9A9</color>
+    <color name="turquoise">#40E0D0</color>
+    <color name="gold">#FFD700</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="defaultTextColor">#FF000000</color>
+
+
 </resources>
